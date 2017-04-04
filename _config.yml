@@ -1,10 +1,10 @@
 # Site settings
-title: Coding Forward
+title: Now We Code
 header-img: img/home-bg.png
 email: evanmarkert@gmail.com
 copyright_name: emarkert
 description: > # this means to ignore newlines until "baseurl:"
-  Or How I Learned to Stop Worrying and Love to Code
+  Or How I Learned to Stop Worrying and Love Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: evanmarkert
 github_username:  emarkert
