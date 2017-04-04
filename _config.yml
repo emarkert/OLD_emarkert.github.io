@@ -1,0 +1,21 @@
+# Site settings
+title: Coding Forward
+header-img: img/home-bg.png
+email: evanmarkert@gmail.com
+copyright_name: emarkert
+description: > # this means to ignore newlines until "baseurl:"
+  Or How I Learned to Stop Worrying and Love to Code
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: evanmarkert
+github_username:  emarkert
+learn_profile: emarkert
+email_username: evanmarkert@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
